@@ -13,21 +13,21 @@ Currently, I’m focused on:
 
 ## 🔗 Featured Projects  
 
-**Machine Learning Projects – R**  
+**[Machine Learning Projects – R](./Machine_Learning_R)**  
 Regression, classification, clustering, and association analysis in R.  
 Demonstrates preprocessing, model evaluation, and visualization techniques.  
 
-**Python Data Projects**  
+**[Python Data Projects](./Python_Projects)**  
 Web scraping, Excel automation, API integration, and exploratory data analysis.  
 Includes ETL workflows, NFL dataset analysis, and API-based pipelines (FBI API, Chuck Norris API).  
 
-**Business Intelligence Project – NFL Analysis**  
+**[Business Intelligence Project – NFL Analysis](./Business_Intelligence_NFL)**  
 Machine learning applied to Kaggle datasets on college football.  
 Built models to predict game outcomes and extracted insights through data cleaning, preprocessing, and visualization.  
 
-**AWS Labs**  
+**[AWS Labs](./AWS_Labs)**  
 Hands-on labs from AWS Academy Cloud Foundations, focused on core cloud services.  
-Covered EC2, Lambda, ECS, Fargate, S3, EBS, DynamoDB, VPC, IAM, API Gateway, CloudFront, CloudWatch, and CloudFormation. [View AWS Labs](./AWS_Labs)  
+Covered EC2, Lambda, ECS, Fargate, S3, EBS, DynamoDB, VPC, IAM, API Gateway, CloudFront, CloudWatch, and CloudFormation.  
 
 ## 🛠️ Skills & Tools
 
