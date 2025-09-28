@@ -49,5 +49,5 @@ I bring the same energy to tech that I bring to life:
 ---
 
 ## 📫 Let’s Connect
-- **LinkedIn:** [Joshua Nation](https://www.linkedin.com/in/joshuanation/)  
+- **LinkedIn:** [Josh Nation](https://www.linkedin.com/in/joshnation/)  
 - **GitHub:** [deepfusi0n](https://github.com/deepfusi0n)  
