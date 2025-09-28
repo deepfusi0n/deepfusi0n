@@ -1,19 +1,27 @@
-# AWS Academy Cloud Foundations — Labs
+# AWS Labs Portfolio
 
-Hands-on notes and artifacts from my AWS Academy Cloud Foundations coursework, which prepared me for the AWS Cloud Practitioner certification. These labs gave me practical, in-depth experience with AWS services.
+This folder highlights my hands-on experience with AWS services through certification labs, projects, and coursework. Each exercise reinforced cloud fundamentals while building practical skills for deploying, securing, and managing resources in AWS.
 
-## Labs Covered
-- **IAM:** Configured users, roles, and policies for secure access management.
-- **VPC & Networking:** Built a VPC, created subnets, configured routing and security groups.
-- **Compute:** Launched EC2 instances, built Lambda functions, deployed containers with ECS/Fargate.
-- **Storage:** Worked with S3 buckets and policies, managed EBS volumes.
-- **Databases:** Created RDS instances and experimented with DynamoDB.
-- **Monitoring & IaC:** Used CloudWatch for metrics/alarms and CloudFormation for resource templates.
+## Core Services Practiced
+- Compute: EC2 (instances, security groups, auto scaling), Lambda (serverless functions), ECS & Fargate (containers)  
+- Storage: S3 (buckets, versioning, lifecycle rules), EBS, DynamoDB (NoSQL)  
+- Networking: VPC, Subnets, Security Groups, ACLs, CIDR, Route 53, API Gateway, CloudFront  
+- Identity & Security: IAM roles, users, policies, parameter store, encryption options  
+- Monitoring & Automation: CloudWatch (metrics, alarms, logs), CloudFormation (infrastructure as code)  
 
-## What I Practiced
-- Launching and connecting to EC2 instances.
-- Creating and securing S3 buckets.
-- Writing and testing Lambda functions.
-- Applying IAM roles and policies.
-- Monitoring and setting alarms in CloudWatch.
-- Automating deployments with CloudFormation.
+## Skills Demonstrated
+- Designed secure, scalable architectures in AWS  
+- Implemented IAM policies and role-based access controls  
+- Created S3 storage solutions with versioning and lifecycle rules  
+- Deployed serverless applications with Lambda and API Gateway  
+- Built automated pipelines and monitored resources with CloudWatch  
+- Gained in-depth exposure to AWS best practices during certification labs  
+
+## Tools & Languages
+- AWS Management Console  
+- AWS CLI  
+- Python & SQL for automation and data workflows  
+- GitHub for version control and documentation  
+
+## Relevance
+These labs and projects gave me hands-on, in-depth knowledge of AWS. Combined with my AWS Cloud Practitioner certification, they prepared me to contribute to cloud, data engineering, and AI initiatives in a professional setting.
