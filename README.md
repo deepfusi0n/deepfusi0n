@@ -21,6 +21,9 @@ Demonstrates preprocessing, model evaluation, and visualization techniques.
 Web scraping, Excel automation, API integration, and exploratory data analysis.  
 Includes ETL workflows, NFL dataset analysis, and API-based data pipelines (FBI API, Chuck Norris API).  
 
+## AWS Labs
+Hands-on labs from AWS Academy Cloud Foundations, covering IAM, VPC, EC2, Lambda, S3, RDS, CloudWatch, and CloudFormation.  
+➡️ [View AWS Labs](./aws-labs/README.md)
 ---
 
 ## 🛠️ Skills & Tools
