@@ -25,9 +25,9 @@ Includes ETL workflows, NFL dataset analysis, and API-based pipelines (FBI API, 
 Machine learning applied to Kaggle datasets on college football.  
 Built models to predict game outcomes and extracted insights through data cleaning, preprocessing, and visualization.  
 
-**[AWS Labs](./AWS_Labs)**  
-Hands-on labs from AWS Academy Cloud Foundations, focused on core cloud services.  
-Covered EC2, Lambda, ECS, Fargate, S3, EBS, DynamoDB, VPC, IAM, API Gateway, CloudFront, CloudWatch, and CloudFormation.  
+## AWS Labs
+Hands-on labs from AWS Academy Cloud Foundations, covering IAM, VPC, EC2, Lambda, S3, RDS, CloudWatch, and CloudFormation.  
+➡️ [View AWS Labs](./aws-labs/README.md) 
 
 ## 🛠️ Skills & Tools
 
