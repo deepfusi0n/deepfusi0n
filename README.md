@@ -20,8 +20,7 @@ Regression, classification, clustering, and association analysis.
 Web scraping, Excel automation, API integration, and exploratory analysis.  
 
 
-**[Business Intelligence Project – NFL Analysis](./Business_Intelligence_NFL)**
-
+**[Business Intelligence Project – NFL Analysis](./Business_Intelligence_NFL)**  
 Machine learning applied to Kaggle datasets on college football.  
 Built models to predict game outcomes and extracted insights through data cleaning, preprocessing, and visualization.  
 
