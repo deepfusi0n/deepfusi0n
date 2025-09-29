@@ -21,7 +21,8 @@ Web scraping, Excel automation, API integration, and exploratory analysis.
 
 ## ☁️AWS Coursework
 
-Coursework from AWS Academy Cloud Foundations, covering IAM, VPC, EC2, Lambda, S3, RDS, CloudWatch, and CloudFormation. Which all allowed me to aquire the AWS Cloud Practicioner Certificate.  
+oursework from **AWS Academy Cloud Foundations**, covering IAM, VPC, EC2, Lambda, S3, RDS, CloudWatch, and CloudFormation.  
+This work prepared me for and led to earning the **AWS Cloud Practitioner Certificate**.
 ➡️ [View exactly what I learned](./aws-labs/README.md)
 
 ## 🛠️ My Skills & Tools
