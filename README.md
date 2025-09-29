@@ -25,9 +25,9 @@ Machine learning applied to Kaggle datasets on college football.
 Built models to predict game outcomes and extracted insights through data cleaning, preprocessing, and visualization.  
 
 
-## AWS Labs
+## AWS Coursework
 
-Hands-on labs from AWS Academy Cloud Foundations, covering IAM, VPC, EC2, Lambda, S3, RDS, CloudWatch, and CloudFormation.  
+Labs from AWS Academy Cloud Foundations, covering IAM, VPC, EC2, Lambda, S3, RDS, CloudWatch, and CloudFormation. Which all allowed me to aquire the AWS Cloud Practicioner Certificate. 
 ➡️ [View AWS Labs](./aws-labs/README.md) 
 
 ## 🛠️ Skills & Tools
