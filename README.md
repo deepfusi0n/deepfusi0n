@@ -30,7 +30,7 @@ Built models to predict game outcomes and extracted insights through data cleani
 Coursework from AWS Academy Cloud Foundations, covering IAM, VPC, EC2, Lambda, S3, RDS, CloudWatch, and CloudFormation. Which all allowed me to aquire the AWS Cloud Practicioner Certificate.  
 ➡️ [View exactly what I learned](./aws-labs/README.md)
 
-## 🛠️ Skills & Tools
+## 🛠️ My Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
