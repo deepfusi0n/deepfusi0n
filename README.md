@@ -17,9 +17,10 @@ Currently, I’m focused on:
 Regression, classification, clustering, and association analysis in R.  
 Demonstrates preprocessing, model evaluation, and visualization techniques.  
 
-**[Python Data Projects](data-projects-python/README.md)**  
+**[Python Data Projects]**  
 Web scraping, Excel automation, API integration, and exploratory data analysis.  
-Includes ETL workflows, NFL dataset analysis, and API-based pipelines (FBI API, Chuck Norris API).  
+Includes ETL workflows, NFL dataset analysis, and API-based pipelines (FBI API, Chuck Norris API).
+[View Python Projects](data-projects-python/README.md)
 
 **[Business Intelligence Project – NFL Analysis](./Business_Intelligence_NFL)**  
 Machine learning applied to Kaggle datasets on college football.  
