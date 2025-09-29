@@ -13,7 +13,7 @@ Currently, I’m focused on:
 
 ## 🔗 Featured Projects  
 
-### Machine Learning Projects — R
+### [Machine Learning Projects — R](https://github.com/deepfusi0n/ml-projects-r)
 Regression, classification, clustering, and association analysis.  
 👉 https://github.com/deepfusi0n/ml-projects-r
 
