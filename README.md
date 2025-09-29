@@ -13,15 +13,15 @@ Currently, I’m focused on:
 
 ## 🔗 Featured Projects  
 
-**[Machine Learning Projects – R](./ml-projects-R)**  
-Regression, classification, clustering, and association analysis in R.  
-Demonstrates preprocessing, model evaluation, and visualization techniques.  
+## Featured Projects
 
-**[Python Data Projects]**  
-Web scraping, Excel automation, API integration, and exploratory data analysis.  
-Includes ETL workflows, NFL dataset analysis, and API-based pipelines (FBI API, Chuck Norris API).
-[View Python Projects](./data-projects-python/README.md)
+### Machine Learning Projects — R
+Regression, classification, clustering, and association analysis.  
+👉 https://github.com/deepfusi0n/ml-projects-r
 
+### Python Data Projects
+Web scraping, Excel automation, API integration, and exploratory analysis.  
+👉 https://github.com/deepfusi0n/data-projects-python
 **[Business Intelligence Project – NFL Analysis](./Business_Intelligence_NFL)**  
 Machine learning applied to Kaggle datasets on college football.  
 Built models to predict game outcomes and extracted insights through data cleaning, preprocessing, and visualization.  
