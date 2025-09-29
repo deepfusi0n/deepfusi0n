@@ -26,6 +26,7 @@ Built models to predict game outcomes and extracted insights through data cleani
 
 
 ## AWS Labs
+
 Hands-on labs from AWS Academy Cloud Foundations, covering IAM, VPC, EC2, Lambda, S3, RDS, CloudWatch, and CloudFormation.  
 ➡️ [View AWS Labs](./aws-labs/README.md) 
 
