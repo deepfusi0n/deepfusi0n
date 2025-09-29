@@ -13,7 +13,7 @@ Currently, I’m focused on:
 
 ## 🔗 Featured Projects  
 
-**[Machine Learning Projects – R](./Machine_Learning_R)**  
+**[Machine Learning Projects – R](./ml-projects-R)**  
 Regression, classification, clustering, and association analysis in R.  
 Demonstrates preprocessing, model evaluation, and visualization techniques.  
 
