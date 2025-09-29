@@ -22,6 +22,7 @@ Regression, classification, clustering, and association analysis.
 ### Python Data Projects
 Web scraping, Excel automation, API integration, and exploratory analysis.  
 👉 https://github.com/deepfusi0n/data-projects-python
+
 **[Business Intelligence Project – NFL Analysis](./Business_Intelligence_NFL)**  
 Machine learning applied to Kaggle datasets on college football.  
 Built models to predict game outcomes and extracted insights through data cleaning, preprocessing, and visualization.  
