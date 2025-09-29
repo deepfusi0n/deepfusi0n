@@ -41,11 +41,13 @@ Coursework from AWS Academy Cloud Foundations, covering IAM, VPC, EC2, Lambda, S
 
 ---
 
+
 ## 🏃 About Me
 I bring the same energy to tech that I bring to life:  
 - I love **making people laugh**,  
 - I’m passionate about **travel and new experiences**,  
 - and I push myself through **long-distance running** and training.  
+
 
 ---
 
