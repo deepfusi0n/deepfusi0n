@@ -39,8 +39,7 @@ Coursework from AWS Academy Cloud Foundations, covering IAM, VPC, EC2, Lambda, S
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
----
-
+---  
 
 ## 🏃 About Me
 I bring the same energy to tech that I bring to life:  
@@ -48,8 +47,7 @@ I bring the same energy to tech that I bring to life:
 - I’m passionate about **travel and new experiences**,  
 - and I push myself through **long-distance running** and training.  
 
-
----
+---  
 
 ## 📫 Let’s Connect
 - **LinkedIn:** [Josh Nation](https://www.linkedin.com/in/joshnation/)  
