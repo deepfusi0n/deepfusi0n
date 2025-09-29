@@ -17,10 +17,12 @@ Currently, I’m focused on:
 -
 Regression, classification, clustering, and association analysis.  
 
-**[Python Data Projects](https://github.com/deepfusi0n/data-projects-python)**
+**[Python Data Projects](https://github.com/deepfusi0n/data-projects-python)**  
 Web scraping, Excel automation, API integration, and exploratory analysis.  
 
-**[Business Intelligence Project – NFL Analysis](./Business_Intelligence_NFL)**  
+
+**[Business Intelligence Project – NFL Analysis](./Business_Intelligence_NFL)**
+
 Machine learning applied to Kaggle datasets on college football.  
 Built models to predict game outcomes and extracted insights through data cleaning, preprocessing, and visualization.  
 
