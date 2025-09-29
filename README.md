@@ -25,6 +25,7 @@ Web scraping, Excel automation, API integration, and exploratory analysis.
 Machine learning applied to Kaggle datasets on college football.  
 Built models to predict game outcomes and extracted insights through data cleaning, preprocessing, and visualization.  
 
+
 ## AWS Labs
 Hands-on labs from AWS Academy Cloud Foundations, covering IAM, VPC, EC2, Lambda, S3, RDS, CloudWatch, and CloudFormation.  
 ➡️ [View AWS Labs](./aws-labs/README.md) 
@@ -40,7 +41,7 @@ Hands-on labs from AWS Academy Cloud Foundations, covering IAM, VPC, EC2, Lambda
 
 ---
 
-## 🌎 About Me
+## 🏃 About Me
 I bring the same energy to tech that I bring to life:  
 - I love **making people laugh**,  
 - I’m passionate about **travel and new experiences**,  
